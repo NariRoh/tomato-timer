@@ -17,3 +17,34 @@ Button.propTypes = {
 };
 
 export default Button;
+
+
+
+
+
+
+
+// {
+//   isCounting: true | false,
+//   /* 
+//     true: show the stop button 
+//     false: play button 
+//   */
+//   counterDuration: 1500, // 25 * 60
+//   elapsedTime: 0
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
